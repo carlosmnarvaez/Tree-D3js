@@ -1,0 +1,78 @@
+{
+  "name": "Usuarios",
+  "children": [
+
+    {
+      "name": "Empresa1",
+      "children": [
+        { 
+          "name": "Xiti",
+          "url": "live.my-media-website.com",
+          "dependsOn": ["Content API", "Picture API", "Router API", "Facebook", "Twitter"],
+          "technos": ["Javascript", "NodeJs", "NGINX", "Varnish"]
+        },
+        { "name": "Google Ads" },
+        { "name": "Video Player" },
+        { "name": "S3 Storage" },
+        { "name": "Simple Queue Service" },
+        { "name": "nuevo" },
+        { "name": "Twitter" }
+      ]
+    },
+
+    {
+      "name": "Empresa2",
+      "children": [
+        { 
+          "name": "Xiti",
+          "url": "live.my-media-website.com",
+          "dependsOn": ["Content API", "Picture API", "Router API", "Facebook", "Twitter"],
+          "technos": ["Javascript", "NodeJs", "NGINX", "Varnish"]
+        },
+        { "name": "Google Ads" },
+        { "name": "Video Player" },
+        { "name": "S3 Storage" },
+        { "name": "Simple Queue Service" },
+        { "name": "nuevo" },
+        { "name": "Twitter" }
+      ]
+    },
+
+    {
+      "name": "Empresa3",
+      "children": [
+        { 
+          "name": "Xiti",
+          "url": "live.my-media-website.com",
+          "dependsOn": ["Content API", "Picture API", "Router API", "Facebook", "Twitter"],
+          "technos": ["Javascript", "NodeJs", "NGINX", "Varnish"]
+        },
+        { "name": "Google Ads" },
+        { "name": "Video Player" },
+        { "name": "S3 Storage" },
+        { "name": "Simple Queue Service" },
+        { "name": "nuevo" },
+        { "name": "Twitter" }
+      ]
+    },
+
+    {
+      "name": "Empresa4",
+      "children": [
+        { 
+          "name": "Xiti",
+          "url": "live.my-media-website.com",
+          "dependsOn": ["Content API", "Picture API", "Router API", "Facebook", "Twitter"],
+          "technos": ["Javascript", "NodeJs", "NGINX", "Varnish"]
+        },
+        { "name": "Google Ads" },
+        { "name": "Video Player" },
+        { "name": "S3 Storage" },
+        { "name": "Simple Queue Service" },
+        { "name": "nuevo" },
+        { "name": "Twitter" }
+      ]
+    }
+
+  ]
+}
